@@ -1,0 +1,275 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">  
+    <link rel="stylesheet" href="style.css">
+    <title> Deli Express</title> 
+  
+
+
+
+</head>    
+
+
+<body>
+    <div>
+       <div class="logo">
+       <img src="soda logo 3.jpg">
+    </div>
+
+
+    <div class="wrapper">
+        <div class="title">
+            <h4><span>Deli Express</span>nuestro menú</h4>
+        </div>
+        <div class="menu">
+            <div class="single-menu">
+                <img src="chalupa.jpg" alt="">
+                <div class="menu-content">
+                    <h4>Chalupa <span>₡1000</span></h4>
+                    <p>Tortillla con carne molida, queso y ensalada.</p>
+                
+
+                </div>
+                
+
+            </div>
+            
+            <div class="single-menu">
+                <img src="Grilled-Chicken-Chalupa-Recipe.jpg" alt="">
+                <div class="menu-content">
+                    <h4>Mega chalupa <span>₡1.500</span></h4>
+                    <p>Aperiam tempore sit,perferendis numquam repudiandae porro voluptate dicta saepe facilis.</p>
+                </div>
+                
+
+            </div>
+            <div class="single-menu">
+                <img src="sencilla.jpg" alt="">
+                <div class="menu-content">
+                    <h4>Hamburguesa sencilla <span>₡1000</span></h4>
+                    <p>Aperiam tempore sit,perferendis numquam repudiandae porro voluptate dicta saepe facilis.</p>
+                </div>
+               
+
+            </div>
+            <div class="single-menu">
+                <img src="bacon-burger-beef-patty-wooden-table-44262462.jpg" alt="">
+                <div class="menu-content">
+                    <h4>Hamburguesa con tocineta y queso <span>₡1.400</span></h4>
+                    <p>Aperiam tempore sit,perferendis numquam repudiandae porro voluptate dicta saepe facilis.</p>
+                </div>
+            
+
+            </div>
+            <div class="single-menu">
+                <img src="hamburguesa-tocino-carne-papas-fritas_179755-3719.jpg" alt="">
+                <div class="menu-content">
+                    <h4>Hamburguesa tocineta, Queso y papas <span>₡2.200</span></h4>
+                    <p>Aperiam tempore sit,perferendis numquam repudiandae porro voluptate dicta saepe facilis.</p>
+                </div>
+
+            </div>
+            <div class="single-menu">
+                <img src="recetas-hamburguesa-americana-con-queso--122887p183243.jpg" alt="">
+                <div class="menu-content">
+                    <h4>Mega hamburguesa<span>₡3000</span></h4>
+                    <p>Aperiam tempore sit,perferendis numquam repudiandae porro voluptate dicta saepe facilis.</p>
+                </div>
+
+            </div>
+            <div class="single-menu">
+                <img src="poutine.jpg" alt="">
+                <div class="menu-content">
+                    <h4>Papas a la francesa<span>₡1.200</span></h4>
+                    <p>Aperiam tempore sit,perferendis numquam repudiandae porro voluptate dicta saepe facilis.</p>
+                </div>
+
+            </div>
+            <div class="single-menu">
+                <img src="salchipapa.jpg" alt="">
+                <div class="menu-content">
+                    <h4>Salchipapas <span>₡1.500</span></h4>
+                    <p>Aperiam tempore sit,perferendis numquam repudiandae porro voluptate dicta saepe facilis.</p>
+                </div>
+
+            </div>
+            <div class="single-menu">
+                <img src="Loaded-Vegan-Chili-Cheese-Nachos-2-250x250.jpg" alt="">
+                <div class="menu-content">
+                    <h4>Nachos Supremos <span>₡2000</span></h4>
+                    <p>Aperiam tempore sit,perferendis numquam repudiandae porro voluptate dicta saepe facilis.</p>
+                </div>
+
+            </div><div class="single-menu">
+                <img src="doraditas.jpg" alt="">
+                <div class="menu-content">
+                    <h4>Doraditas <span>₡800</span></h4>
+                    <p>Aperiam tempore sit,perferendis numquam repudiandae porro voluptate dicta saepe facilis.</p>
+                </div>
+
+            </div><div class="single-menu">
+                <img src="Como-hacer-tacos-de-carne-2.jpg" alt="">
+                <div class="menu-content">
+                    <h4>Taco sencillo<span>₡800</span></h4>
+                    <p>Aperiam tempore sit,perferendis numquam repudiandae porro voluptate dicta saepe facilis.</p>
+                </div>
+
+            </div>
+            <div class="single-menu">
+                <img src="Chicken-Tacos_3.jpg" alt="">
+                <div class="menu-content">
+                    <h4>Mega taco <span>₡1.800</span></h4>
+                    <p>Aperiam tempore sit,perferendis numquam repudiandae porro voluptate dicta saepe facilis.</p>
+                </div>
+
+            </div>
+            <div class="single-menu">
+                <img src="taquitos-receta.jpg" alt="">
+                <div class="menu-content">
+                    <h4>Mega taco especial <span>₡2.200</span></h4>
+                    <p>Aperiam tempore sit,perferendis numquam repudiandae porro voluptate dicta saepe facilis.</p>
+                </div>
+
+            </div>
+            <div class="single-menu">
+                <img src="flauta.jpg" alt="">
+                <div class="menu-content">
+                    <h4>Flauta <span>₡2.200</span></h4>
+                    <p>Aperiam tempore sit,perferendis numquam repudiandae porro voluptate dicta saepe facilis.</p>
+                </div>
+
+            </div>
+            <div class="single-menu">
+                <img src="burrito.jpg" alt="">
+                <div class="menu-content">
+                    <h4>Burrito <span>₡2.200</span></h4>
+                    <p>Aperiam tempore sit,perferendis numquam repudiandae porro voluptate dicta saepe facilis.</p>
+                </div>
+
+            </div>
+            <div class="single-menu">
+                <img src="wrap.jpg" alt="">
+                <div class="menu-content">
+                    <h4>Deli Wrapp <span>₡2.500</span></h4>
+                    <p>Aperiam tempore sit,perferendis numquam repudiandae porro voluptate dicta saepe facilis.</p>
+                </div>
+
+            </div>
+            <div class="single-menu">
+                <img src="alas-pollo-frito-mesa-madera_1205-7734.jpg" alt="">
+                <div class="menu-content">
+                    <h4>Alitas <span>₡2.500</span></h4>
+                    <p>Aperiam tempore sit,perferendis numquam repudiandae porro voluptate dicta saepe facilis.</p>
+                </div>
+
+            </div>
+            <div class="single-menu">
+                <img src="costillas-de-cerdo-con-Ambar-Especial-2.jpg" alt="">
+                <div class="menu-content">
+                    <h4>Costilla <span>₡3000</span></h4>
+                    <p>Aperiam tempore sit,perferendis numquam repudiandae porro voluptate dicta saepe facilis.</p>
+                </div>
+
+            </div>
+            <div class="single-menu">
+                <img src="empanada frijol.jpg" alt="">
+                <div class="menu-content">
+                    <h4>Empanada de frijol<span>₡800</span></h4>
+                    <p>Aperiam tempore sit,perferendis numquam repudiandae porro voluptate dicta saepe facilis.</p>
+                </div>
+
+            </div>
+            <div class="single-menu">
+                <img src="empanada queso.jpg" alt="">
+                <div class="menu-content">
+                    <h4>Empanada de Queso <span>₡800</span></h4>
+                    <p>Aperiam tempore sit,perferendis numquam repudiandae porro voluptate dicta saepe facilis.</p>
+                </div>
+
+            </div>
+            <div class="single-menu">
+                <img src="mqdefault.jpg" alt="">
+                <div class="menu-content">
+                    <h4>Empanada arreglada <span>₡1.500</span></h4>
+                    <p>Aperiam tempore sit,perferendis numquam repudiandae porro voluptate dicta saepe facilis.</p>
+                </div>
+
+            </div>
+            <div class="single-menu">
+                <img src="quesadillla.jpg" alt="">
+                <div class="menu-content">
+                    <h4>Quesadilla <span>₡2000</span></h4>
+                    <p>Aperiam tempore sit,perferendis numquam repudiandae porro voluptate dicta saepe facilis.</p>
+                </div>
+
+            </div>
+            <div class="single-menu">
+                <img src="deli dog.jpg" alt="">
+                <div class="menu-content">
+                    <h4>Deli Dog  <span>₡1.700</span></h4>
+                    <p>Aperiam tempore sit,perferendis numquam repudiandae porro voluptate dicta saepe facilis.</p>
+                </div>
+
+            </div>
+            <div class="single-menu">
+                <img src="duo.jpg" alt="">
+                <div class="menu-content">
+                    <h4>Hamburguesa Duo<span>₡3000</span></h4>
+                    <p>Aperiam tempore sit,perferendis numquam repudiandae porro voluptate dicta saepe facilis.</p>
+                </div>
+
+            </div>
+            <div class="single-menu">
+                <img src="bbq ham.jpg" alt="">
+                <div class="menu-content">
+                    <h4>Hamburguesa BBQ<span>₡1.600</span></h4>
+                    <p>Aperiam tempore sit,perferendis numquam repudiandae porro voluptate dicta saepe facilis.</p>
+                </div>
+
+            </div>
+            <div class="single-menu">
+                <img src="fast-food-hamburger_67394-534.jpg" alt="">
+                <div class="menu-content">
+                    <h4>Combo de niños <span>₡1.500</span></h4>
+                    <p>Aperiam tempore sit,perferendis numquam repudiandae porro voluptate dicta saepe facilis.</p>
+                </div>
+
+           
+            </div>
+    
+        </div>
+
+
+    </div>
+    <div class="phone">
+
+        <img src="phone.png" >
+        <h4>8518-8218 <span></span></h4>
+      </div>
+
+  
+
+
+
+    <footer>
+        <p>Estamos para servirle! </p>     
+    </footer>
+
+</body>
+
+
+
+ 
+
+
+
+
+
+
+
